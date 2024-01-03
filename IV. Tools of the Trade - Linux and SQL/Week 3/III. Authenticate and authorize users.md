@@ -210,7 +210,7 @@ Certainly! Here's a detailed explanation of the concepts and commands covered in
 # Add and delete users
 
 **Introduction to Authentication and User Management**
-- **[[Authentication]]**: Authentication is the process of verifying a user's identity within the system.
+- **[[Authentication]]**: Authentication is the process of verifying a user's identity within the system, or the process of a user proving that they are who they say they are in the system.
 - **[[Access Control]]**: Not all users should have unrestricted access to a system, and managing user access is essential for security.
 
 **Adding and Deleting Users**
